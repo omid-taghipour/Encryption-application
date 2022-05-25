@@ -12,7 +12,7 @@ JDK version 15
 3. In "Open with" window, select "OpenJDK Platform Binary".
 4. The program will be opened and ready to work.
 
-*Note: also it is possible to run the project from the source code.
+*Note: also it is possible to run the project from the source code.*
 
 # How to use the program:
 In the first page, there is a form asking for the message, key, and encryption algorithm to select. After entering the information, click on the Encrypt the message button.
